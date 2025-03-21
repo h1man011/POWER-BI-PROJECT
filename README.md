@@ -5,6 +5,7 @@ This project is an **interactive Power BI dashboard** analyzing the sales perfor
 
 ## 📸 Dashboard Preview 
 
+![image](https://github.com/user-attachments/assets/4ecc3c97-eb93-469e-b628-3d3b82bb4722)
 
 ## 🔑 Key Features  
 ✅ **Total Sales, Profit & Order Analysis** 🌟  
