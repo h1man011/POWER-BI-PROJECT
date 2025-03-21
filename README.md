@@ -3,8 +3,8 @@
 ## 🚀 Overview  
 This project is an **interactive Power BI dashboard** analyzing the sales performance of **Madhav E-Commerce**. It provides insights into **sales trends, customer behavior, and profitability** using **data visualization and DAX calculations**.
 
-## 📸 Dashboard Preview  
-![Madhav E-Commerce Sales Dashboard](Screenshot%20(3).png)  
+## 📸 Dashboard Preview 
+
 
 ## 🔑 Key Features  
 ✅ **Total Sales, Profit & Order Analysis** 🌟  
@@ -12,11 +12,6 @@ This project is an **interactive Power BI dashboard** analyzing the sales perfor
 ✅ **Region-Wise Performance Breakdown** 🌍  
 ✅ **Sales Trends (Monthly, Quarterly, Yearly)** 📊  
 ✅ **Drill-Through & Interactive Filters for Insights** 🔍  
-
-## 📂 Files Included  
-- `Madhav_Ecommerce_Dashboard.pbix` – Power BI report file  
-- `Dataset.csv` – (Only if publicly shareable)  
-- **Dashboard Screenshot**  
 
 ## 📊 Data Insights  
 1. **Key Metrics (KPIs at the Top):**  
